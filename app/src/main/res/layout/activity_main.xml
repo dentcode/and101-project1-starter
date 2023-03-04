@@ -27,7 +27,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="60dp"
-                android:src="@drawable/avatar_9"/>
+                android:src="@drawable/avatar_8"/>
 
             <TextView
                 android:id="@+id/profile_name"
@@ -37,9 +37,9 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="50dp"
-                tools:text="First Last"
+                tools:text="Ignacio De LA cRUZ"
                 android:textSize="24sp"
-                android:textColor="@color/black"
+                android:textColor="@color/blue"
                 android:textStyle="bold"
                 android:textAllCaps="true"/>
 
@@ -64,7 +64,7 @@
                 android:layout_marginTop="50dp"
                 android:text="@string/profile_hobby_header_text"
                 android:textSize="18sp"
-                android:textColor="@color/black"/>
+                android:textColor="@color/blue"/>
 
             <TextView
                 android:id="@+id/profile_hobby_first"
