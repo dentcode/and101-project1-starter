@@ -36,9 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-https://i.imgur.com/YbXkMXe.gif
-
-<a href="https://imgur.com/YbXkMXe"><img src="https://i.imgur.com/YbXkMXe.gif" title="source: imgur.com" /></a>
+<iframe class="imgur-embed" width="100%" height="1450" frameborder="0" src="https://i.imgur.com/nTODdPm.gif#embed"></iframe>
 
 GIF created with Kap
 
