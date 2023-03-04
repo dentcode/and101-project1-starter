@@ -38,6 +38,8 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 https://i.imgur.com/YbXkMXe.gif
 
+<a href="https://imgur.com/YbXkMXe"><img src="https://i.imgur.com/YbXkMXe.gif" title="source: imgur.com" /></a>
+
 GIF created with Kap
 
 <!-- Recommended tools:
